@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\AdventofCode2015\AdventofCode2015\bin\Debug\AdventofCode2015.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\AdventofCode2015\AdventofCode2015\obj\Debug\AdventofCode2015.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\AdventofCode2015\AdventofCode2015\bin\Debug\AdventofCode2015.exe
+c:\users\admin\documents\visual studio 2015\Projects\AdventofCode2015\AdventofCode2015\bin\Debug\AdventofCode2015.pdb
+c:\users\admin\documents\visual studio 2015\Projects\AdventofCode2015\AdventofCode2015\obj\Debug\AdventofCode2015.exe
+c:\users\admin\documents\visual studio 2015\Projects\AdventofCode2015\AdventofCode2015\obj\Debug\AdventofCode2015.pdb
